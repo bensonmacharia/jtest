@@ -1,0 +1,1000 @@
+  859  git config --global user.name "Benson Muchoki Macharia"
+  860  git config --global user.email "muchokibenson12@gmail.com"
+  861  git remote add origin git@gitlab.com:bensonmacharia/konnectfarm.git
+  862  git add .
+  863  git commit -m "Initial commit"
+  864  git push -u origin master
+  865  sudo apt-get update
+  866  python -m SimpleHTTPServer
+  867  pip install youtube.dl
+  868  sudo apt-get youtube.dl
+  869  sudo apt-get install youtube.dl
+  870  apt search simpleCV
+  871  youtube.dl
+  872  man youtube.dl
+  873  clear
+  874  sudp apt-get install simpleCV
+  875  sudo apt-get install simpleCV
+  876  pip install simpleCV
+  877  clear
+  878  youtube.dl https://www.youtube.com/watch?v=rwthZhG4uW8
+  879  youtube-dl https://www.youtube.com/watch?v=rwthZhG4uW8
+  880  sudo-app get update
+  881  sudo app-get update
+  882  fabmanager run
+  883  ./start_navicat
+  884  apt-get search netbeans
+  885  sudo apt-get install netbeans
+  886  clear
+  887  vim assets.sql
+  888  mysql -ubmacharia -p ict_assets < ast.sql;
+  889  mysql -ubmacharia -p ict_assets < assets.sql;
+  890  ssh root@10.66.111.252 
+  891  mysql -ubamacharia -p < localhost.sql 
+  892  sudo mysql -ubamacharia -p < localhost.sql 
+  893  sudo mysql -uroot -p < localhost.sql 
+  894  git clone https://github.com/ivyminaywa/movies.git
+  895  git status
+  896  fab manager run
+  897  fabmanager run
+  898  sqlalchemy
+  899  sudo pip install sqlalchemy
+  900  fabmanager run
+  901  sudo pip install sqlalchemy_searchable
+  902  fabmanager run
+  903  sudo pip install sqlalchemy_mixins
+  904  fabmanager run
+  905  sudo pip install sqlalchemy_continuum
+  906  fabmanager run
+  907  sudo pip install arrow
+  908  fabmanager run
+  909  fabmanager create-admin
+  910  fabmanager run
+  911  ssh chelule@10.66.110.8
+  912  ssh -p 63422 chelule@10.66.110.8
+  913  ssh judiciary@www.judiciary.go.ke
+  914  ssh skipkorir@10.66.112.4
+  915  git clone 'pl': {'flag':'pl', 'name':'Polish'}
+  916  git clone https://github.com/ivyminaywa/movies.git
+  917  fabmanager run
+  918  git clone https://github.com/ivyminaywa/movies.git
+  919  cd movies/
+  920  fabmanager run
+  921  clear
+  922  fabmanager run
+  923  ssh root@10.66.110.7
+  924  scp ict_assets.sql root@10.66.110.7:/tm
+  925  mysql -uroot -p -h10.66.110.7
+  926  scp ict_assets.sql root@10.66.110.7:/tm
+  927  scp ict_assets.sql root@10.66.110.7:/tmp
+  928  ssh root@10.66.111.252
+  929  ssh root@10.66.110.7
+  930  vim
+  931  git clone https://github.com/LionSec/katoolin.git  && cp katoolin/katoolin.py /usr/bin/katoolin
+  932  sudo su
+  933  airmon-ng start wlan0
+  934  sudo airmon-ng start wlan0
+  935  airodump-ng mon0
+  936  sudo airodump-ng mon0
+  937  sudo su
+  938  airodump-ng --bssid D0:FC:CC:62:F8:2A -c 11 --Write WPAcrack mon0
+  939  sudo su
+  940  sudo katoolin/
+  941  sudo katoolin
+  942  katoolin
+  943  airodump-ng --bssid 68:72:51:56:34:1E -c 1 --write WPAcrack mon0
+  944  sudo su
+  945  sudo su
+  946  aireplay-ng --deauth 100 -a D0:FC:CC:62:F8:2A mon0
+  947  sudo su
+  948  scp -r judiciary@41.215.70.82:/public_html/iams /home/bmacharia/application/
+  949  scp -r -p59999 judiciary@41.215.70.82:/public_html/iams /home/bmacharia/application/
+  950  scp -p59999 judiciary@41.215.70.82:/public_html/iams /home/bmacharia/application/
+  951  scp -p 59999 judiciary@41.215.70.82:/public_html/iams /home/bmacharia/application/
+  952  ssh judiciary@41.215.70.82
+  953  ssh -p 59999 judiciary@41.215.70.82
+  954  sudo katoolin/
+  955  sudo su
+  956  sudo su
+  957  fabmanager create-admin
+  958  makedir icms
+  959  mkdir icms
+  960  abma
+  961  fabmanager create-app cms
+  962  fabmanager create-app
+  963  fabmanager run
+  964  sudo createdb cms
+  965  psql
+  966  createdb csm
+  967  dropdb csm
+  968  createdb cms
+  969  psql
+  970  fabmanager crate-app
+  971  fabmanager create-app
+  972  cd cms/
+  973  fabmanager run
+  974  vim db.sql
+  975  vim c1.py
+  976  fabmanager run
+  977  python c1.py 
+  978  psql
+  979  cd ..
+  980  fabmanager run
+  981  ./gen_script2.sh c1.py 
+  982  psql
+  983  ./gen_script2.sh c1.py 
+  984  ping mail.court.go.ke
+  985  fabmanager create-admin
+  986  fabmanager run
+  987  cd db/
+  988  vim s1.sql
+  989  flask-appbuilder
+  990  ls -lsh
+  991  ssh shared@88.80.188.224
+  992  sudo apt install mumble
+  993  mumble
+  994  marble
+  995  mumble
+  996  ssh bmacharia@88.80.188.224
+  997  ssh shared@88.80.188.224
+  998  ssh benson@88.80.188.224
+  999  ssh shared@88.80.188.224
+ 1000  ifconfig
+ 1001  clear
+ 1002  git clone https://github.com/nyimbi/cms_train.git
+ 1003  fabmanager create-db
+ 1004  fabmanager create-admin
+ 1005  fabamanager run
+ 1006  ls
+ 1007  cd ..
+ 1008  ls
+ 1009  apt install tor 
+ 1010  sudo apt-get upgrade tor
+ 1011  fabmanager create-admin
+ 1012  fabamanager run
+ 1013  fabmanager run
+ 1014  tor
+ 1015  sudo apt install tor deb.torproject.org-keyring
+ 1016  tor
+ 1017  ./start-tor-browser.desktop
+ 1018  youtube-dl https://www.youtube.com/watch?v=rwthZhG4uW8
+ 1019  clear
+ 1020  history
+ 1021  sudo apt-get install vlc
+ 1022  vlc
+ 1023  git status
+ 1024  git push
+ 1025  git status
+ 1026  git add database/
+ 1027  git add php/
+ 1028  git status
+ 1029  git add --all
+ 1030  git status
+ 1031  git commit -m "Added backed files"
+ 1032  git status
+ 1033  git push
+ 1034  git status
+ 1035  sudo apt-get update
+ 1036  sudo apt-get upgrade
+ 1037  sudo katoolin/
+ 1038  sudo katoolin
+ 1039  katoolin
+ 1040  sudo katoolin
+ 1041  sudo apt-get update
+ 1042  sudo apt-get upgrade
+ 1043  sudo apt-get update
+ 1044  source cms/bin/activate
+ 1045  pip freeze
+ 1046  cd cms
+ 1047  pip freeze
+ 1048  ssh chelule@10.66.110.8
+ 1049  ssh -p 63422 chelule@10.66.110.8
+ 1050  pip install virtualenv
+ 1051  sudo pip install virtualenv
+ 1052  virtualenv cms
+ 1053  source cms/bin/activate
+ 1054  pip freeze
+ 1055  source cms/bin/deactivate
+ 1056  deactivate
+ 1057  virtualenv cms
+ 1058  cd cms
+ 1059  source bin/activate
+ 1060  pip freeze
+ 1061  pip install flask
+ 1062  pip install flask-appbuilder
+ 1063  pip install flask-appbuilder flask-sqlacodegen humanize flask-humanize sqlalchemy-utils sqlalchemy-continuum psycopg2 
+ 1064  git clone https://github.com/nyimbi/cms_train.git
+ 1065  cd cms_train/
+ 1066  fabmanager create-db
+ 1067  pip install sqlalchemy_searchable
+ 1068  fabmanager create-db
+ 1069  pip install sqlalchemy_mixins
+ 1070  fabmanager create-db
+ 1071  pip install arrow
+ 1072  fabmanager create-db
+ 1073  pip install enum
+ 1074  fabmanager create-db
+ 1075  fabamanager run
+ 1076  fabmanager run
+ 1077  cd src/
+ 1078  pjtoppm 
+ 1079  cd pjs/
+ 1080  cd ..
+ 1081  pip install python-mpesa
+ 1082  sudo pip install python-mpesa
+ 1083  git clone https://github.com/bensonmacharia/cms_train.git
+ 1084  git checkout -b add-benson-macharia
+ 1085  git status
+ 1086  git commit -m "Edit config.py with postgres SQLALCHEMY_DATABASE_URI connection"
+ 1087  git status
+ 1088  git add config.py 
+ 1089  git status
+ 1090  git commit -m "Edit config.py with postgres SQLALCHEMY_DATABASE_URI connection"
+ 1091  git push origin add-benson-macharia
+ 1092  git init
+ 1093  git remote add origin git@gitlab.com:bensonmacharia/sokodigito.git
+ 1094  git add .
+ 1095  git commit -m "Initial commit"
+ 1096  git push -u origin master
+ 1097  git status
+ 1098  git add --all
+ 1099  git status
+ 1100  git commit -m "Finalised matching all counties to constituencies"
+ 1101  git push
+ 1102  git status
+ 1103  sudo chown -R bmacharia:group writerbight/
+ 1104  sudo chown -R root:group writerbight/
+ 1105  sudo chown -R bmacharia writerbight/
+ 1106  chmod +x netbeans-8.2-linux.sh 
+ 1107  ./netbeans-8.2-linux.sh 
+ 1108  sudo mkdir -p /opt/java
+ 1109  sudo mv jdk1.8.0_151 /opt/java
+ 1110  sudo apt-get update && apt-get remove openjdk*
+ 1111  sudo update-alternatives --install "/usr/bin/java" "java" "/opt/java/jdk1.8.0_151/bin/java" 1
+ 1112  sudo update-alternatives --set java /opt/java/jdk1.8.0_151/bin/java
+ 1113  java -version
+ 1114  ./netbeans-8.2-linux.sh 
+ 1115  ./netbeans 
+ 1116  ping 10.66.112.25
+ 1117  ssh chelule@10.66.110.8
+ 1118  ssh -p63422 chelule@10.66.110.8
+ 1119  ssh transcriber.admin@10.66.112.25
+ 1120  ffmpeg -i mentions\ and\ hearings.wav -loop 1 -i supreme_court.jpg -c:a copy -c:v libx264 -shortest 3octCOA1.mp4
+ 1121  ffmpeg -i mentions\ and\ hearings.wav -loop 1 -i supreme_court.jpeg -c:a copy -c:v libx264 -shortest 3octCOA1.mp4
+ 1122  ffmpeg -loop 1 -r ntsc -i image.jpg -i mentions\ and\ hearings.wav -c:a copy -c:v libx264 -preset fast -threads 0 -shortest output.mp4
+ 1123  ffmpeg -i mentions\ and\ hearings.wav -loop 1 -i supreme_court.jpeg -c:a copy -c:v libx264 -shortest 3octCOA1.mp4
+ 1124  clear
+ 1125  ffmpeg -loop 1 -shortest -i mentions\ and\ hearings.wav -i supreme_court.jpeg file.mp4
+ 1126  clear
+ 1127  sudo ffmpeg -i audio.wav -loop 1 -i supreme_court.jpeg -c:a copy -c:v libx264 -shortest 3octCOA1.mp4
+ 1128  clear
+ 1129  ffmpeg -i audio.wav -shortest -b 1000k -acodec copy output.mp4
+ 1130  clear
+ 1131  ffmpeg -loop 1 -r 1 -i supreme_court.jpeg.jpg -i audio.mp3 -c:a copy -shortest output.avi
+ 1132  ffmpeg -loop 1 -r 1 -i supreme_court.jpeg -i audio.mp3 -c:a copy -shortest output.avi
+ 1133  ffmpeg -loop 1 -r 1 -i supreme_court.jpeg -i audio.wav -c:a copy -shortest output.avi
+ 1134  ffmpeg -loop 1 -r 1 -i supreme_court.jpeg -i audio.wav -c:a copy -shortest output.mp4
+ 1135  ffmpeg -loop 1 -i supreme_court.jpeg -i audio.wav -shortest -acodec copy video.mp4
+ 1136  clear
+ 1137  ffmpeg -loop 1 -i supreme_court.jpeg -i audio.wav -shortest -acodec copy video.mp4
+ 1138  sudo apt-get install libavutil
+ 1139  ls -la
+ 1140  sudo /etc/init.d/apache2 restart
+ 1141  lsof - i tcp:80
+ 1142  find . -type d -exec chmod 755 {} \;
+ 1143  find . -type f -exec chmod 644 {} \;
+ 1144  sudo /etc/init.d/apache2 restart
+ 1145  sudo apt-get update
+ 1146  chelule@10.66.110.8
+ 1147  ssh -p 63422 chelule@10.66.110.8
+ 1148  ./start_navicat 
+ 1149  find . -type d -exec chmod 755 {} \;
+ 1150  find . -type f -exec chmod 644 {} \;
+ 1151  git inti
+ 1152  git init
+ 1153  git status
+ 1154  git add --all
+ 1155  git status
+ 1156  find . -type d -exec chmod 755 {} \;
+ 1157  find . -type f -exec chmod 644 {} \;
+ 1158  git remote add origin git@gitlab.com:bensonmacharia/fuelalert.git
+ 1159  git add .
+ 1160  git commit -m "Initial commit"
+ 1161  git push -u origin master
+ 1162  vim procedure.sql
+ 1163  mysql -ubmacharia -p
+ 1164  mysql -ubmacharia -p icms < /home/bmacharia/desktop/procedure.sql
+ 1165  ls
+ 1166  mysql -ubmacharia -p icms < procedure.sql
+ 1167  php --version
+ 1168  ssh -p 63422 chelule@10.66.110.8
+ 1169  sudo /etc/init.d/apache2 restart
+ 1170  find . -type d -exec chmod 755 {} \;
+ 1171  find . -type f -exec chmod 644 {} \;
+ 1172  ls
+ 1173  tree
+ 1174  sudo apt-get update
+ 1175  ssh -p 63422 chelule@10.66.110.8
+ 1176  git status
+ 1177  #!/bin/bash
+ 1178  grep -a -C 500 'my_android_key' /dev/sda | tee /tmp/recover
+ 1179  sudo grep -a -C 500 'my_android_key' /dev/sda | tee /tmp/recover
+ 1180  sudo grep -a -C 500 '.jks' /dev/sda | tee /tmp/recover
+ 1181  clear
+ 1182  sudo apt-get install ext3grep
+ 1183  ext3grep .jks --restore-all
+ 1184  ext3grep my_key_store.jks --restore-all
+ 1185  ext3grep android_key_store.jks --restore-all
+ 1186  ext3grep /dev/sda3 --restore-all --after date -d '2017-11-02 00:00:00' '+%s' --before `date -d ‘2017-11-02 00:00:00’ ‘+%s’
+ 1187  ext3grep /dev/sda3 --restore-all --after date -d '2017-11-01 00:00:00'
+ 1188  ext3grep /dev/sda3 --restore-all --after date -d '2017-11-01 00:00:00' '+%s'
+ 1189  ext3grep app-release-apk --restore-all
+ 1190  ext3grep 'app-release-apk' --restore-all
+ 1191  ext3grep --help
+ 1192  clear
+ 1193  debugfs -w /dev/mapper/wks01-root
+ 1194  ext3grep 'keystore.jks' --restore-all
+ 1195  ext3grep 'androidkeystore.jks' --restore-all
+ 1196  extundelete --restore-all /dev/{sd*}
+ 1197  sudo apt install extundelete
+ 1198  sudo apt install  testdisk
+ 1199  sudo apt-get update
+ 1200  testdisk
+ 1201  sudo apt-get update
+ 1202  sudo apt install testdisk
+ 1203  testdisk
+ 1204  sudo testdisk
+ 1205  photorec
+ 1206  man r-linux
+ 1207  r-linux
+ 1208  sudo photorec
+ 1209  git clone git@gitlab.com:ivyminaywa/iams.git
+ 1210  sudo git clone git@gitlab.com:ivyminaywa/iams.git
+ 1211  sudo git clone git@gitlab.com:bensonmacharia/iams.git
+ 1212  sudo git clone /div>
+ 1213  git init
+ 1214  sudo git init
+ 1215  git clone git@gitlab.com:bensonmacharia/iams.git
+ 1216  sudo git clone git@gitlab.com:bensonmacharia/iams.git
+ 1217  find . -type d -exec chmod 755 {} \;
+ 1218  find . -type f -exec chmod 644 {} \;
+ 1219  git init
+ 1220  git status
+ 1221  git add .
+ 1222  git status
+ 1223  git remote add origin git@gitlab.com:bensonmacharia/writerbight.git
+ 1224  git commit -m "Initial commit"
+ 1225  git push -u origin master
+ 1226  mysql --version
+ 1227  find . -type d -exec chmod 755 {} \;
+ 1228  chown bmacharia jce/
+ 1229  sudo chown bmacharia jce/
+ 1230  ssh -p63422 chelule@10.66.110.8
+ 1231  mysql -uroot -p
+ 1232  sudo mysql -uroot -p
+ 1233  sudo nano /etc/mysql/my.cnf
+ 1234  mysql
+ 1235  mysql -uroot -p
+ 1236  clear
+ 1237  sudo apt-get update
+ 1238  mysql -uroot -p
+ 1239  mysql -ubmacharia -p
+ 1240  sudo nano /etc/mysql/my.cnf
+ 1241  sudo service mysql restart
+ 1242  ping 158.29.30.77
+ 1243  ssh -p59999 judiciary@www.judiciary.go.ke
+ 1244  sudo apt-get update
+ 1245  git status
+ 1246  git remote add origin git@gitlab.com:bensonmacharia/writerbight.git
+ 1247  git add .
+ 1248  git commit -m "Initial commit"
+ 1249  git push -u origin master
+ 1250  ping 158.29.30.77
+ 1251  sudo apt-get update
+ 1252  sudo apt-get upgrade
+ 1253  git status
+ 1254  git add.
+ 1255  git add*
+ 1256  git add *
+ 1257  git status
+ 1258  git commit -m "More updates"
+ 1259  git push
+ 1260  git remote add origin git@gitlab.com:bensonmacharia/writerbight.git
+ 1261  git push -u origin master
+ 1262  git status
+ 1263  git remote add origin git@gitlab.com:bensonmacharia/writerbight.git
+ 1264  git push
+ 1265  ssh -p63422 chelule@10.66.110.8
+ 1266  gedit Order.php 
+ 1267  sudo service cups stop
+ 1268  ping 172.17.28.2
+ 1269  ping 10.66.112.4
+ 1270  ping 10.66.112.26
+ 1271  ping 10.66.110.8
+ 1272  ping 10.66.112.14
+ 1273  ping 10.66.112.10
+ 1274  ping 10.66.112.20
+ 1275  ping 10.66.112.11
+ 1276  ping 10.66.112.112
+ 1277  ping 10.66.131.20
+ 1278  ping 10.66.112.2
+ 1279  ping 10.66.112.3
+ 1280  ping 10.66.112.50
+ 1281  ping 10.66.112.51
+ 1282  ping 172.17.28.1
+ 1283  ping 172.17.28.254
+ 1284  ping 158.29.30.77
+ 1285  ping 8.8.8.8
+ 1286  ping 10.109.1.196
+ 1287  ssh -p63422 chelule@10.66.110.8
+ 1288  sudo apt-get update
+ 1289  sudo apt-get upgrade
+ 1290  git status
+ 1291  git add .
+ 1292  git status
+ 1293  git commit -m "More updates Send Email, User Accounts"
+ 1294  git push
+ 1295  git status
+ 1296  system-config-printer
+ 1297  vim linuX_cheat_sheet.txt
+ 1298  ping 172.17.28.2
+ 1299  ping 10.66.112.26
+ 1300  ping 10.66.110.8
+ 1301  ping 10.66.112.14
+ 1302  ping 10.66.112.10
+ 1303  ping 10.66.112.20
+ 1304  ping 10.66.112.112
+ 1305  ping 10.66.131.20
+ 1306  ping 10.66.112.1
+ 1307  ping 10.66.112.3
+ 1308  ping 10.66.112.2
+ 1309  ping 10.66.112.50
+ 1310  ping 10.66.112.51
+ 1311  ping 172.17.28.1
+ 1312  ping 172.17.28.254
+ 1313  ping 158.29.30.77
+ 1314  ping 8.8.8.8
+ 1315  ping 10.109.1.196
+ 1316  ssh root@10.66.111.252
+ 1317  clear
+ 1318  ssh -p63422 chelule@10.66.110.8
+ 1319  ifconfig
+ 1320  ssh -p 59999 judiciary@www.judiciary.go.ke
+ 1321  ping 8.8.8.8
+ 1322  ssh -p59999 judiciary@www.judiciary.go.ke
+ 1323  sudo-apt get update
+ 1324  sudo apt-get update
+ 1325  sudo apt-get upgrade
+ 1326  ifconfig
+ 1327  vim probate.sql
+ 1328  ping 8.8.8.8
+ 1329  clear
+ 1330  fabmanager run 
+ 1331  fabmanager run
+ 1332  mysql -v
+ 1333  mysql --v
+ 1334  mysql version
+ 1335  mysql 
+ 1336  sudo mysql
+ 1337  uname -a
+ 1338  sudo apt-get install apt-transport-https ca-certificates
+ 1339  docker
+ 1340  clear
+ 1341  sudo apt-get update
+ 1342  git status
+ 1343  git add .
+ 1344  git commit -"Repaired gradle and Firebase Integration"
+ 1345  git merge
+ 1346  git push
+ 1347  git init
+ 1348  git status
+ 1349  git add .
+ 1350  git commit -m "initial commit"
+ 1351  git remote add origin git@gitlab.com:bensonmacharia/icms.git
+ 1352  git push -u origin master
+ 1353  git remote set-url origin git@gitlab.com:bensonmacharia/icms.git
+ 1354  git push -u origin master
+ 1355  curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+ 1356  php --version
+ 1357  curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+ 1358  composer
+ 1359  sudo apt-get update
+ 1360  clear
+ 1361  composer
+ 1362  cd ~
+ 1363  mkdir slugify
+ 1364  cd slugify
+ 1365  composer require cocur/slugify
+ 1366  cd ..
+ 1367  composer create-project laravel/laravel quickstart --prefer-dist
+ 1368  history
+ 1369  composer update
+ 1370  clear
+ 1371  composer create-project --prefer-dist laravel/laravel GOT
+ 1372  laravel
+ 1373  laravel new GOT
+ 1374  composer global require "laravel/installer"
+ 1375  sudo composer global require "laravel/installer"
+ 1376  laravel new GOT
+ 1377  composer create-project --prefer-dist laravel/laravel GOT
+ 1378  composer
+ 1379  composer update
+ 1380  clera
+ 1381  cleart
+ 1382  clear
+ 1383  apt pet-update
+ 1384  sudo apt-get update
+ 1385  cd laravel/
+ 1386  composer create-project --prefer-dist laravel/laravel GOT
+ 1387  clera
+ 1388  clear
+ 1389  sudo chown -R w3cert /home/bmacharia/.composer/cache/repo/https---packagist.org
+ 1390  sudo chown -R bmacharia /home/bmacharia/.composer/cache/repo/https---packagist.org
+ 1391  sudo chown -R bmacharia /home/bmacharia/.composer/cache/files/
+ 1392  composer create-project --prefer-dist laravel/laravel GOT
+ 1393  sudo apt-get upgrade
+ 1394  laravel
+ 1395  composer create-project --prefer-dist laravel/laravel GOT
+ 1396  cd laravel/
+ 1397  composer create-project --prefer-dist laravel/laravel GOT
+ 1398  composer install
+ 1399  composer global require "laravel/installer"
+ 1400  ls -lh composer.json
+ 1401  cd ..
+ 1402  ls
+ 1403  cd /home/bmacharia/
+ 1404  ls
+ 1405  clear
+ 1406  sudo chown -R bmacharia:bmacharia .composer/composer.json
+ 1407  ls -lh composer.json
+ 1408  composer global require "laravel/installer"
+ 1409  vim routes.php
+ 1410  ./phpstorm.sh
+ 1411  php artisan make:controller ListController
+ 1412  php artisan make:auth
+ 1413  ssh root@10.66.111.252
+ 1414  clear
+ 1415  ssh -p63422 chelule@10.66.110.8
+ 1416  clear
+ 1417  history
+ 1418  cd /var/
+ 1419  cd www/
+ 1420  cd html/
+ 1421  cd writerbight/
+ 1422  ls
+ 1423  find . -type d -exec chmod 755 {} \;
+ 1424  find . -type f -exec chmod 644 {} \;
+ 1425  cd ..
+ 1426  ssh -p63422 chelule@10.66.110.8
+ 1427  ssh root@10.66.111.252
+ 1428  mkdir efiling
+ 1429  sudo mkdir efiling
+ 1430  find . -type d -exec chmod 755 {} \;
+ 1431  find . -type f -exec chmod 644 {} \;
+ 1432  find . -type d -exec chmod 755 {} \;
+ 1433  git init
+ 1434  ssh -p63422 chelule@10.66.110.8
+ 1435  git init
+ 1436  git remote add origin https://bensonmuchoki@bitbucket.org/cmsefiling/efiling.git
+ 1437  git push -u origin master
+ 1438  echo "# My project's README" >> README.md
+ 1439  git add README.md
+ 1440  git commit -m "Initial commit"
+ 1441  git push -u origin master
+ 1442  git status
+ 1443  git add .
+ 1444  git status
+ 1445  git commit -m "Initial commit"
+ 1446  git push -u origin master
+ 1447  git pull
+ 1448  git push -u origin master
+ 1449  git status
+ 1450  git add .
+ 1451  git commit -m "Initial commit"
+ 1452  git oush
+ 1453  git push
+ 1454  git add .
+ 1455  git commit -m "Initial commit"
+ 1456  git push
+ 1457  cal
+ 1458  cal -m 12
+ 1459  cd cms
+ 1460  cd bin/
+ 1461  activate
+ 1462  virtualenv cts
+ 1463  source cts/bin/activate
+ 1464  pip flask 
+ 1465  pip install flask 
+ 1466  pip install flask-appbuilder
+ 1467  10.66.111.72
+ 1468  ping10.66.111.72
+ 1469  ping 10.66.111.72
+ 1470  ssh -p63422 chelule@10.66.110.8
+ 1471  git clone "git@gitlab.com:bensonmacharia/case_tracking.git"
+ 1472  mkdir icms
+ 1473  sudo mkdir icms
+ 1474  git init
+ 1475  git init
+ 1476  find . -type d -exec chmod 755 {} \;
+ 1477  sudo find . -type d -exec chmod 755 {} \;
+ 1478  find . -type f -exec chmod 644 {} \;
+ 1479  git init
+ 1480  git clone "git@gitlab.com:bensonmacharia/case_tracking.git"
+ 1481  cd ..
+ 1482  sudo git clone "git@gitlab.com:bensonmacharia/case_tracking.git"
+ 1483  sudo git clone "https://gitlab.com/bensonmacharia/case_tracking.git"
+ 1484  curl https://raw.github.com/git/git/master/contrib/completion/git-completion.bash > ~/.git-completion.bash
+ 1485  ~/.git-prompt.bash:
+ 1486  cd ..
+ 1487  ls
+ 1488  locate .git-prompt.bash
+ 1489  curl https://raw.github.com/git/git/master/contrib/completion/git-prompt.sh > ~/.git-prompt.bash
+ 1490  cd ~/.git-prompt.bash
+ 1491  git checkout - b benson_macharia
+ 1492  git checkout -b benson_macharia
+ 1493  git pull origin master
+ 1494  git branch
+ 1495  git add Contributors.md
+ 1496  vim Contributors.md
+ 1497  git add Contributors.md
+ 1498  git commit -m "Added Contributors list"
+ 1499  git status
+ 1500  git push
+ 1501  git push origin benson_macharia
+ 1502  history > benson.txt
+ 1503  git status
+ 1504  git add benson.txt 
+ 1505  git commit -m "Added benson history"
+ 1506  git push origin benson_macharia
+ 1507  cal -m 12
+ 1508  ssh -p63422 chelule@10.66.110.8
+ 1509  ssh -p59999 judiciary@www.judiciary.go.ke
+ 1510  ssh -p63422 chelule@10.66.110.8
+ 1511  clear
+ 1512  git status
+ 1513  git add .
+ 1514  git commit -m "Edited causelist"
+ 1515  git branch
+ 1516  git push benson_macharia
+ 1517  clear
+ 1518  git push benson_macharia
+ 1519  git status
+ 1520  git push benson_macharia
+ 1521  git status
+ 1522  git push origin benson_macharia
+ 1523  marge branch benson_macharia into master
+ 1524  merge branch benson_macharia into master
+ 1525  git checkout benson_macharia
+ 1526  git push origin benson_macharia
+ 1527  git branch
+ 1528  git checkout master
+ 1529  git merge benson_macharia
+ 1530  git push origin master
+ 1531  git checkout benson_macharia
+ 1532  git pull
+ 1533  git pull master benson_macharia
+ 1534  git pull origin master
+ 1535  git pull
+ 1536  git pull master benson_macharia
+ 1537  git pull origin master
+ 1538  cd application/controllers/
+ 1539  ls
+ 1540  git diff
+ 1541  git diff origin master 
+ 1542  git branch
+ 1543  git diff benson_macharia master
+ 1544  clear
+ 1545  cd ..
+ 1546  git status
+ 1547  git add .
+ 1548  git commit -m "Deleted benson.txt"
+ 1549  git status
+ 1550  git branch
+ 1551  git checkout benson_macharia
+ 1552  git push origin benson_macharia
+ 1553  git checkout master
+ 1554  git branch
+ 1555  git merge benson_macharia
+ 1556  git push origin master
+ 1557  git checkout benson_macharia
+ 1558  git status
+ 1559  git merge master
+ 1560  git checkout master
+ 1561  git merge benson_macharia
+ 1562  git fetch origin master
+ 1563  git checkout benson_macharia
+ 1564  git fetch origin master
+ 1565  git merge master
+ 1566  git push origin benson_macharia:master
+ 1567  git fetch origin master
+ 1568  git branch
+ 1569  git status
+ 1570  git checkout master
+ 1571  git fetch origin master
+ 1572  git merge benson_macharia
+ 1573  history > benson.txt
+ 1574  git branch
+ 1575  git checkout benson_macharia
+ 1576  git status
+ 1577  git add .
+ 1578  git commit -m "Added benson.txt"
+ 1579  git status
+ 1580  git push origin benson_macharia
+ 1581  git branch
+ 1582  git status
+ 1583  cd ..
+ 1584  git clone
+ 1585  git clone https://gitlab.com/bensonmacharia/case_tracking.git
+ 1586  sudo git clone https://gitlab.com/bensonmacharia/case_tracking.git
+ 1587  cd case_tracking/
+ 1588  git status\
+ 1589  git status
+ 1590  git branch
+ 1591  git checkout -b benson
+ 1592  sudo find . -type d -exec chmod 755 {} \;
+ 1593  find . -type f -exec chmod 644 {} \;
+ 1594  git checkout -b benson
+ 1595  sudo git checkout -b benson
+ 1596  git branch
+ 1597  git branch benson
+ 1598  histoty > benson.txt
+ 1599  history > benson.txt
+ 1600  git add hellen.txt
+ 1601  git commit -m "Added benson.txt"
+ 1602  git add benson.txt
+ 1603  git commit -m "Added benson.txt"
+ 1604  git push -u origin benson
+ 1605  git status
+ 1606  git merge master
+ 1607  git checkout master
+ 1608  git merge benson
+ 1609  git push -u origin master
+ 1610  git checkout benson
+ 1611  git branch
+ 1612  git fetch origin master
+ 1613  git status
+ 1614  git staus
+ 1615  git status
+ 1616  git add .
+ 1617  git status
+ 1618  git commit - "Modified Activities time"
+ 1619  git commit -m "Modified Activities time"
+ 1620  git branch
+ 1621  git push origin benson
+ 1622  git checkout master
+ 1623  git branch
+ 1624  git merge benson
+ 1625  git push origin master
+ 1626  git checkout benson
+ 1627  git branch
+ 1628  git pull
+ 1629  git staus
+ 1630  git status
+ 1631  git branch
+ 1632  git add .
+ 1633  git status
+ 1634  git commit -m "Added changes to create activity"
+ 1635  git push origin benson
+ 1636  git status
+ 1637  git branch
+ 1638  git checkout master
+ 1639  git branch
+ 1640  git merge benson
+ 1641  git push origin master
+ 1642  git branch
+ 1643  git pull
+ 1644  git merge benson
+ 1645  git checkout benson
+ 1646  git merge master
+ 1647  git pull
+ 1648  git branch
+ 1649  git checkout master
+ 1650  git fetch origin master
+ 1651  git merge benson
+ 1652  git branch
+ 1653  git checkout benson
+ 1654  git pull upstream master
+ 1655  git remote add upstream https://gitlab.com/judiciary/case_tracking.git
+ 1656  git fetch upstream
+ 1657  git pull upstream master
+ 1658  git branch
+ 1659  git merge benson
+ 1660  git merge master
+ 1661  git branch
+ 1662  git checkout master
+ 1663  git pull upstream master
+ 1664  git status
+ 1665  git branch
+ 1666  git checkout benson
+ 1667  git pull origin master
+ 1668  git pull origin benson
+ 1669  git status
+ 1670  git add .
+ 1671  git status
+ 1672  git branch
+ 1673  git pull origin benson
+ 1674  git commit -m "Added changes to case activities"
+ 1675  git push origin benson
+ 1676  git checkout master
+ 1677  git merge benson
+ 1678  git push origin master
+ 1679  git checkout benson
+ 1680  git branch
+ 1681  git status
+ 1682  git add. 
+ 1683  git add .
+ 1684  git commit -m "Deleted duplicate files"
+ 1685  git push origin benson
+ 1686  git status
+ 1687  git checkout master
+ 1688  git status
+ 1689  git merge benson
+ 1690  git push origin master
+ 1691  git status
+ 1692  git checkout benson
+ 1693  git branch
+ 1694  git stus
+ 1695  git status
+ 1696  git add .
+ 1697  git commit -m "Deleted testing txts"
+ 1698  git push origin benson
+ 1699  git checkout branch master
+ 1700  git checkout master
+ 1701  git merge benson
+ 1702  git push origin master
+ 1703  git branch
+ 1704  git fetch origin master
+ 1705  git merge benson
+ 1706  git checkout benson
+ 1707  git fetch origin master benson
+ 1708  git status
+ 1709  git pull
+ 1710  git branch
+ 1711  git status
+ 1712  git branch
+ 1713  git status
+ 1714  git add .
+ 1715  git commit -m "Another major commit"
+ 1716  git branch
+ 1717  git push origin master
+ 1718  history
+ 1719  git remote add origin https://gitlab.com/bensonmacharia/writerbight.git
+ 1720  git push origin master
+ 1721  ssh root@10.66.111.252
+ 1722  git status
+ 1723  git branch
+ 1724  git checkout master
+ 1725  git add application/config/config.php 
+ 1726  git checkout master
+ 1727  git branch
+ 1728  git add .
+ 1729  git status
+ 1730  git commit -m "My config file"
+ 1731  git checkout master
+ 1732  git pull origin master
+ 1733  git merge bmacharia
+ 1734  git merge benson
+ 1735  git checkout
+ 1736  git branch
+ 1737  git checkout benson
+ 1738  git pull origin benson
+ 1739  git status
+ 1740  ./configure 
+ 1741  sudo make install
+ 1742  scid
+ 1743  ./configure 
+ 1744  sudo make install
+ 1745  scid
+ 1746  git status
+ 1747  git diff benson master
+ 1748  clear
+ 1749  git branch
+ 1750  git pull origin benson
+ 1751  git branch checkout master
+ 1752  git branch
+ 1753  git checkout master
+ 1754  git branch
+ 1755  git branch -d checkout
+ 1756  git branch
+ 1757  git pull origin master
+ 1758  git checkout benson
+ 1759  git status
+ 1760  git branch
+ 1761  git pull 
+ 1762  git checkout master
+ 1763  git pull
+ 1764  git merge benson
+ 1765  git branch
+ 1766  git status
+ 1767  mysql -ubmacharia -p
+ 1768  git status
+ 1769  git add case_tracking 
+ 1770  git status
+ 1771  git commit - "deleted unrequired folder case_tracking"
+ 1772  git commit -m "deleted unrequired folder case_tracking"
+ 1773  git branch
+ 1774  git push origin master
+ 1775  git status
+ 1776  clear
+ 1777  git branch
+ 1778  git checkout benson
+ 1779  git branch
+ 1780  git checkout benson
+ 1781  git commit -m "configuration changes"
+ 1782  git add .
+ 1783  git commit -m "configuration changes"
+ 1784  git checkout benson
+ 1785  git branch
+ 1786  git pull origin benson
+ 1787  git branch
+ 1788  git checkout master
+ 1789  git pull origin master
+ 1790  git merge benson
+ 1791  git checkout benson
+ 1792  git branch
+ 1793  git pull 
+ 1794  git status
+ 1795  clear
+ 1796  sudo apt-get update
+ 1797  sudo apt-get upgrade
+ 1798  git status
+ 1799  sudo apt-get update
+ 1800  sudo apt-get upgrade
+ 1801  ssh -p63422 chelule@10.66.110
+ 1802  ssh -p63422 chelule@10.66.110.8
+ 1803  git init
+ 1804  git status
+ 1805  ssh -p63422 chelule@10.66.110.8
+ 1806  git remote add origin https://gitlab.com/bensonmacharia/jce.git
+ 1807  git status
+ 1808  git branch
+ 1809  git add uploads/
+ 1810  git status
+ 1811  git commit -m "Added uploaded files"
+ 1812  git push origin master
+ 1813  git branch
+ 1814  git push -u origin master
+ 1815  cal -m 12
+ 1816  cal -m 12 -y 2018
+ 1817  sudo apt-get update
+ 1818  sudo apt-get upgrade
+ 1819  psql
+ 1820  git clone git@gitlab.com:bensonmacharia/jce.git
+ 1821  sudo git clone git@gitlab.com:bensonmacharia/jce.git
+ 1822  sudo git clone https://gitlab.com/bensonmacharia/jce.git
+ 1823  sudo apt install git-flow
+ 1824  git-flow
+ 1825  git clone https://github.com/nyamuiru/jtest.git
+ 1826* 
+ 1827  git clone https://github.com/nyamuiru/jtest.git
+ 1828  rm -rf jtest
+ 1829  git clone https://github.com/nyamuiru/jtest.git
+ 1830  ls
+ 1831  cd jtest/
+ 1832  ls
+ 1833  cd ..
+ 1834  rm -rf jtest
+ 1835  ls
+ 1836  git clone https://github.com/bensonmacharia/jtest.git
+ 1837  ls
+ 1838  cd jtest
+ 1839  ls
+ 1840  ll
+ 1841  git-flow init
+ 1842  git status
+ 1843  clear
+ 1844  git status
+ 1845  git flow init
+ 1846  git flow feature start benson_macharia
+ 1847  history > benson.txt
+ 1848  vim README.txt 
+ 1849  git status
+ 1850  git add .
+ 1851  git commit - "Added modifications by Benson"
+ 1852  git commit -m "Added modifications by Benson"
+ 1853  git status
+ 1854  git branch
+ 1855  ls
+ 1856  mkdir benson
+ 1857  cd benson/
+ 1858  history > benson.txt
